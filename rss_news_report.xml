@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+					  	<rss version="2.0"
+    				 	xmlns:dc="http://purl.org/dc/elements/1.1/"
+    					xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    					xmlns:admin="http://webns.net/mvcb/"
+    					xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    					xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    					<channel>
+    						<title>This is an RSS feed from the PostaNews - Cameroon website. RSS feeds allow you to stay up to date with the latest news and features you want from PostaNews - Cameroon.
+To subscribe to it, Cut and paste the URL of the RSS feed into your News Reader</title>
+    						<link>http://localhost/postanews/feed</link>
+    						<description>Update 10 last news </description>
+    						<dc:language>en-en</dc:language>
+    						<dc:creator>achillewanguedaniel0@yahoo.com</dc:creator>
+    						<dc:rights>Copyright 2015</dc:rights>
+    					<image> 
+         					<url>http://localhost/postanews/asset/img/postanews_120x60.gif</url>  
+         					<title>PosaNews - Cameroon</title>  
+         					<link>http://localhost/postanews/rss_news_report.xml</link>  
+         					<width>120</width>  
+         					<height>60</height> 
+    					</image> 
+							<admin:generatorAgent rdf:resource="http://localhost/postanews/" /> </channel></rss>
