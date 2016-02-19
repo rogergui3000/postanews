@@ -22,6 +22,6 @@ It is just a  login, logout, register with emial confirmation, write a news arti
 Extend this application by adding search for news in the  controller or keep it as it is .
 
 #Note: you must have a Gmail account and with the setting of allow non secure app feature turn on to work.
-Note any feedback replay to achillewanguedaniel0@yahoo.com.
+Note any feedback replay to rogergui3000@yahoo.com.
 
 #happy coding
