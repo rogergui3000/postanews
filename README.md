@@ -25,3 +25,7 @@ Extend this application by adding search for news in the  controller or keep it 
 Note any feedback replay to rogergui3000@yahoo.com.
 
 #happy coding
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rogergui3000/postanews/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
